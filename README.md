@@ -165,6 +165,18 @@ pytest --cov=app
 
 ---
 
-## License
+## 👨‍💻 Author
 
-This project is part of a technical test for Yuccainfo.
+<div align="center">
+
+### **Moatez Tilouch**
+
+_Frontend Developer & Animation Enthusiast_
+
+[![GitHub](https://img.shields.io/badge/GitHub-MoatezTilouche-181717?style=for-the-badge&logo=github)](https://github.com/MoatezTilouche)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moatez%20Tilouch-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moatez-tilouch-a58a96284/)
+[![Email](https://img.shields.io/badge/Email-moateztilouch%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:moateztilouch@gmail.com)
+
+</div>
+
+---

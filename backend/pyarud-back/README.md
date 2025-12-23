@@ -297,8 +297,16 @@ This project is part of a technical test for Yuccainfo.
 
 ## 👨‍💻 Author
 
-Technical Test - Yuccainfo
+<div align="center">
+
+### **Moatez Tilouch**
+*Frontend Developer & Animation Enthusiast*
+
+[![GitHub](https://img.shields.io/badge/GitHub-MoatezTilouche-181717?style=for-the-badge&logo=github)](https://github.com/MoatezTilouche)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moatez%20Tilouch-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moatez-tilouch-a58a96284/)
+[![Email](https://img.shields.io/badge/Email-moateztilouch%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:moateztilouch@gmail.com)
+
+</div>
+
 
 ---
-
-**Note**: This is the backend component. The frontend application should be developed separately and configured to communicate with this API.
