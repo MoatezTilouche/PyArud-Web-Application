@@ -70,6 +70,26 @@ Frontend will be available at:
 
 ---
 
+## 🧪 Utilisation de l’application
+
+Vidéo de démonstration :
+https://drive.google.com/file/d/1Ra95Ovh3QNM1pxWAhvzOdWhyWXG8RRzQ/view?usp=sharing
+
+Étapes :
+
+1. Ouvrir le frontend dans le navigateur.
+2. Saisir un ou plusieurs vers arabes (un vers par ligne).
+3. Cliquer sur **Analyser**.
+
+Le résultat affiche :
+
+- le baḥr détecté
+- les taf‘īla
+- les ziḥāf (s’il y en a)
+- l’état du vers (correct / cassé)
+
+---
+
 ## Configuration
 
 ### Backend environment
