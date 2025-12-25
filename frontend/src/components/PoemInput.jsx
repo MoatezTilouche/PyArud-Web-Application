@@ -78,13 +78,13 @@ export default function PoemInput({ value, onChange, onAnalyze, onClear, onFillE
               Mutaqārib
             </button>
             <button
-              onClick={() => onFillExample('kamil')}
+              onClick={() => onFillExample('khafif')}
               disabled={loading}
               className="px-3 py-2 text-sm rounded-lg border border-gray-300 text-gray-600
                          hover:bg-blue-50 hover:border-blue-300 hover:text-blue-700
                          disabled:opacity-50 transition-all"
             >
-              Kāmil
+              Khafīf
             </button>
             <button
               onClick={() => onFillExample('taweel')}
