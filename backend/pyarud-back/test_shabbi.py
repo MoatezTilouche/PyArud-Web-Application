@@ -38,7 +38,6 @@ print(f"Pieds OK: {ok_count}/{total}")
 print("="*60)
 
 if verse['details']['score'] >= 0.5 and data['bahr'] != 'mutadarak':
-    print("\n✅ EXCELLENT exemple pour votre démo frontend!")
     print(f"   - Bahr non-mutadarak: {data['bahr']}")
     print(f"   - Score acceptable: {verse['details']['score']}")
     print(f"   - Status: {verse['status']}")
