@@ -5,7 +5,7 @@ Full-stack Arabic poetry prosody analysis app built around the **PyArud** librar
 - **Backend**: Flask API for analyzing Arabic poetry verses (meter/baḥr detection, per-verse analysis, validation).
 - **Frontend**: React + Vite UI (RTL-friendly) that calls the backend API and renders results.
 
-This repository is part of a technical test for Yuccainfo.
+
 
 ---
 
